@@ -1,0 +1,4 @@
+message = "simple message's alternate"
+print (message)
+
+
